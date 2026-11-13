@@ -6,13 +6,13 @@
 
 ## 0. Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Mã đề (A/B/C):
-- Email:
-- Link repository:
-- Giờ bắt đầu:
-- Giờ kết thúc:
+- Họ tên:Nguyễn Tiến Đạt
+- MSSV:2A202603289
+- Mã đề (A/B/C): C
+- Email:nguyentiendat.qc2004@gmail.com
+- Link repository:https://github.com/datpro-sudo/K5-L2B-NguyenTienDat-2A202603289-Day05-MOTTracking
+- Giờ bắt đầu:16h
+- Giờ kết thúc:19h30
 
 ## 1. Xem trước đoạn video (CP0)
 
@@ -20,11 +20,11 @@ Ghi **trước khi vẽ**, mỗi người một dòng.
 
 | Mã | Frame xuất hiện | Frame cuối thấy được | Rẽ / dừng / đổi tốc độ ở frame | Bị che ở frame | Ghi chú |
 |---|---|---|---|---|---|
-| P1 | | | | | |
-| P2 | | | | | |
-| P3 | | | | | |
-| P4 | | | | | |
-| P5 | | | | | |
+| P1 |01|137|45|111| |
+| P2 |01|150| | | |
+| P3 |01|106|25|91| |
+| P4 |01|111|27 |107| |
+| P5 |01|150| | | |
 
 ## 2. Keyframe và thời gian (CP1, CP4)
 
